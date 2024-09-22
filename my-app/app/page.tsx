@@ -41,7 +41,7 @@ export default function Home() {
       developer: 'Riot Games',
       releaseDate: '2020-06-02',
       platforms: ['PC'],
-      price: 0
+      price: 80
     },
     { 
       name: 'God of War Ragnarök', 
